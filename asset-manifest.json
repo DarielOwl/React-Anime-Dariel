@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Anime-Dariel/static/css/main.47bfb546.chunk.css",
+    "main.js": "/React-Anime-Dariel/static/js/main.2cf2fd20.chunk.js",
+    "main.js.map": "/React-Anime-Dariel/static/js/main.2cf2fd20.chunk.js.map",
+    "runtime-main.js": "/React-Anime-Dariel/static/js/runtime-main.bc42c9ec.js",
+    "runtime-main.js.map": "/React-Anime-Dariel/static/js/runtime-main.bc42c9ec.js.map",
+    "static/js/2.4e596986.chunk.js": "/React-Anime-Dariel/static/js/2.4e596986.chunk.js",
+    "static/js/2.4e596986.chunk.js.map": "/React-Anime-Dariel/static/js/2.4e596986.chunk.js.map",
+    "index.html": "/React-Anime-Dariel/index.html",
+    "static/css/main.47bfb546.chunk.css.map": "/React-Anime-Dariel/static/css/main.47bfb546.chunk.css.map",
+    "static/js/2.4e596986.chunk.js.LICENSE.txt": "/React-Anime-Dariel/static/js/2.4e596986.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc42c9ec.js",
+    "static/js/2.4e596986.chunk.js",
+    "static/css/main.47bfb546.chunk.css",
+    "static/js/main.2cf2fd20.chunk.js"
+  ]
+}
